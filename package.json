@@ -1,0 +1,20 @@
+{
+  "name": "myScript",
+  "version": "1.0.0",
+  "description": "Scripting with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'Error: no test specified'"
+  },
+  "keywords": [
+    "script",
+    "test"
+  ],
+  "author": "antsegcan@gmail.com (http://github.com/GOYUSO)",
+  "license": "ISC",
+  "bin": {
+    "myScript": "index.js"
+  },
+  "devDependencies": {}
+}
